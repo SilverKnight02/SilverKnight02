@@ -12,8 +12,7 @@ S.SAI PARANSOTHI<br>B.E-COMPUTER SCIENCE ENGINEERING <br>FRONT END DEVELOPER
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=SilverKnight02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
+![](https://github-readme-stats.vercel.app/apiusername=SilverKnight02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 
 
@@ -21,16 +20,9 @@ S.SAI PARANSOTHI<br>B.E-COMPUTER SCIENCE ENGINEERING <br>FRONT END DEVELOPER
 
 <br/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverKnight02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/username=SilverKnight02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[
-
-![](https://visitcount.itsvg.in/api?id=SilverKnight02&icon=0&color=1)
-
-](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SilverKnight02&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
